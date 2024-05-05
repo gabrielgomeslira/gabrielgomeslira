@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey there! 👋 I'm a 23-year-old back-end developer from Brazil on the hunt for exciting adventures in the tech world.</p>
+<p align="left">Sup! 👋 I'm a 23-year-old back-end developer from Brazil on the hunt for exciting adventures in the tech world. 😊 </p>
 
 ###
 
