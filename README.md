@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://i.imgur.com/wTF8MkU.jpeg" alt="Asuka" style="width: 100%; border: none;"/>
+      <img src="https://i.imgur.com/Gl8ZCOF.jpeg" alt="Yotsuba" align="center" style="width: 100%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: 'Courier New', monospace; font-size: 35px; font-weight: bold; color: #333;">
@@ -12,7 +12,8 @@
     /About_Me
     ├── bio.txt
     │   ├── he/him 23-year-old - brazilian (pt/en)
-    │   └── back-end Developer  
+    │   ├── it technician
+    │   └── computer engineering undergraduate
     │
     ├── skills
     │   ├── languages
@@ -29,6 +30,7 @@
     │   ├── databases
     │   │   ├── MySQL
     │   │   └── PostgreSQL
+    │   │ 
     │   ├── cloud
     │   │     └── Oracle
     │   │
