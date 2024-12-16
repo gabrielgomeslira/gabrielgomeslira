@@ -18,7 +18,6 @@
     ├── skills
     │   ├── languages
     │   │   ├── JavaScript
-    │   │   ├── TypeScript
     │   │   ├── Python
     │   │   └── C#
     │   │
