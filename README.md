@@ -12,7 +12,7 @@
     /About_Me
     ├── bio.txt
     │   ├── he/him 23-year-old - brazilian (pt/en)
-    │   ├── it technician
+    │   ├── back-end developer
     │   └── computer engineering undergraduate
     │
     ├── skills
@@ -39,6 +39,7 @@
     │   
     └── learning
         ├── docker
+	├── Java w/ Spring Boot
         └── zabbix
   </tr>
 </table>
