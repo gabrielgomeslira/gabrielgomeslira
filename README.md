@@ -19,6 +19,7 @@
     │   ├── languages
     │   │   ├── JavaScript
     │   │   ├── Python
+    │   │   ├── Java
     │   │   └── C#
     │   │
     │   ├── frameworks
@@ -32,7 +33,11 @@
     │   │ 
     │   ├── cloud
     │   │     └── Oracle
-    │   │
+    │   │ 
+    │   ├── DevOps
+    │   │   ├── Docker
+    │   │   └── Proxmox
+    │   │ 
     │   └── operating_systems
     │       ├── Linux ~ ubuntu24.04
     │       └── Windows ~ 11 w/ WSL ubuntu22.04 (main)
