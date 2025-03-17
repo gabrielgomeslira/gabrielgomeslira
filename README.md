@@ -42,3 +42,4 @@
         └── Java w/ spring boot
   </tr>
 </table>
+<figure><embed src="https://wakatime.com/share/@all0y/a5f0de40-aea8-4f81-90c5-8f305ee25c3f.svg"></embed></figure>
