@@ -25,7 +25,8 @@
     │   ├── frameworks
     │   │   ├── Node.js
     │   │   ├── Bootstrap
-    │   │   └── Anaconda
+    │   │   ├── Anaconda
+    │   │   └── Spring Boot	
     │   │ 
     │   ├── databases
     │   │   ├── MySQL
@@ -44,7 +45,7 @@
     │   
     └── learning
         ├── Docker
-        └── Java w/ spring boot
+        └── Angular
   </tr>
 </table>
 <figure><embed src="https://wakatime.com/share/@all0y/a5f0de40-aea8-4f81-90c5-8f305ee25c3f.svg"></embed></figure>
