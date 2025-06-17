@@ -44,7 +44,6 @@
     │       └── Windows ~ 11 w/ WSL ubuntu22.04 (main)
     │   
     └── learning
-        ├── Docker
         ├── Go
         └── Angular
   </tr>
