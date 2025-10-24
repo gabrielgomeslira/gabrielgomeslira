@@ -11,8 +11,8 @@
       
     /About_Me
     ├── bio.txt
-    │   ├── he/him 23-year-old - brazilian (pt/en)
-    │   ├── back-end developer
+    │   ├── he/him 24-year-old - brazilian (pt/en)
+    │   ├── software developer
     │   └── computer engineering undergraduate
     │
     ├── skills
@@ -30,13 +30,16 @@
     │   │ 
     │   ├── databases
     │   │   ├── MySQL
-    │   │   └── PostgreSQL
+	│   │   ├── PostgreSQL
+    │   │   └── Redis
     │   │ 
     │   ├── cloud
-    │   │     └── Oracle
+    │   │   ├── Oracle
+    │   │   └── AWS
     │   │ 
     │   ├── DevOps
     │   │   ├── Docker
+    │   │   ├── CI/CD
     │   │   └── Proxmox
     │   │ 
     │   └── operating_systems
