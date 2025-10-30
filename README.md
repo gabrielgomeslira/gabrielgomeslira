@@ -1,8 +1,7 @@
 <table>
   <tr>
 <td style="width: 100%;">
-    <!-- <img src="https://i.imgur.com/wTF8MkU.jpeg" alt="Yotsuba" align="center" style="width: 100%; border: none;"/> -->
-    <span style="font-size: 410px;">シ</span>
+    <img src="https://i.imgur.com/R0cVzQr.jpeg" alt="Yotsuba" align="center" style="width: 100%; border: none;"/>
 </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: 'Courier New', monospace; font-size: 35px; font-weight: bold; color: #333;">
